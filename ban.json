@@ -1,0 +1,24 @@
+{
+    "code":"0",
+    "data":[
+        {
+            "nickname":"warma",
+            "reason":"冒充老板",
+            "endtime":false,
+            "exector":"all"    
+        },
+        {
+            "nickname":"Bob_CN",
+            "nickname":"Bob_CN",
+            "reason":"多次攻击服务器",
+            "endtime":false,
+            "exector":"all"
+        },
+        {
+            "nickname":"YF_BCLS",
+            "reason":"引发玩家愤怒，发起战争",
+            "endtime":false,
+            "exector":"all"
+        }   
+    ]
+}
